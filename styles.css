@@ -1,0 +1,19 @@
+
+body {
+ background: black; 
+}
+
+#arrow-container {
+	margin: auto 25%;
+}
+
+.fa {
+	font-size: 900px;
+	color: white;
+}
+
+body:active {
+  visibility: hidden;
+  background: white;
+}
+
